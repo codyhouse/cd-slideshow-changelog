@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2020-02-24
+- New data-controls="hover" option to show arrow controls on hover
+- New .slideshow--ratio-{ratio} classes for the --fixed-ratio variation
+
 ## [1.0.6] - 2019-11-26
 - Added the option to navigate slideshow using external controls
 
