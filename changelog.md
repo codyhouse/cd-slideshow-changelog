@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2020-03-04
+- Minor bug fix - do not create dots navigation if already available 
+
 ## [1.1.0] - 2020-02-24
 - New data-controls="hover" option to show arrow controls on hover
 - New .slideshow--ratio-{ratio} classes for the --fixed-ratio variation
