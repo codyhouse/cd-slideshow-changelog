@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2020-03-19
+- Fix issue when only one item in the slideshow
+
 ## [1.1.1] - 2020-03-04
 - Minor bug fix - do not create dots navigation if already available 
 
