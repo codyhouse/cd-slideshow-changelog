@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.0] - 2020-04-14
+- Added --transition-parallax variation
+
 ## [1.1.2] - 2020-03-19
 - Fix issue when only one item in the slideshow
 
