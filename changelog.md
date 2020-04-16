@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.1] - 2020-04-15
+- New --slideshow-height CSS variable to control slideshow height
+
 ## [1.2.0] - 2020-04-14
 - Added --transition-parallax variation
 
