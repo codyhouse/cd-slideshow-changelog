@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.2] - 2020-05-25
+- Fixed minor bug with --transition-fade variation on Firefox
+
 ## [1.2.1] - 2020-04-15
 - New --slideshow-height CSS variable to control slideshow height
 
