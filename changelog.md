@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.3] - 2020-08-14
+- Skip hidden slideshow items
+
 ## [1.2.2] - 2020-05-25
 - Fixed minor bug with --transition-fade variation on Firefox
 
