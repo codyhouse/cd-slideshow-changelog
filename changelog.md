@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.4] - 2020-12-26
+- Keyboard navigation when slideshow is in focus
+
 ## [1.2.3] - 2020-08-14
 - Skip hidden slideshow items
 
