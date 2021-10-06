@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.5] - 2021-10-04
+- New data-autoplay-hover option
+
 ## [1.2.4] - 2020-12-26
 - Keyboard navigation when slideshow is in focus
 
